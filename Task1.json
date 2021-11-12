@@ -1,0 +1,7 @@
+{
+  "numbers": [{"number1": "12321h", "number2": "54321h", "number3": "12345h", "number4": "54345h"}],
+        "ticket_number1" : { "customer_name1": "Maks", "number1": "12321h", "price1": 150, "type1": "student" },
+        "ticket_number2" : { "customer_name2": "Arsen", "number2": "54321h", "price2": 200, "type2": "advanced"},
+        "ticket_number3" : { "customer_name3": "Denys", "number3": "12345h", "price3": 300, "type3": "regular"},
+        "ticket_number4" : { "customer_name4": "Rubick", "number4": "54345h", "price4": 350, "type4": "late"}
+}
