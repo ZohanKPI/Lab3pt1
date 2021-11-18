@@ -1,4 +1,5 @@
 # file for test work in json
+# scheme for json 
 import json
 with open('Task1.json') as f:
     data = json.load(f)
